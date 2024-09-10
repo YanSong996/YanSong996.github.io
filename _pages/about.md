@@ -37,12 +37,12 @@ For more details, please refer to my [CV](CV.pdf).
 
 # Publications 
 - **Yan Song**, Wenlin Dai, and Marc G. Genton (2024), "Large-scale low-rank Gaussian process prediction with support points," *Journal of the American Statistical Association, Theory and Methods*, to appear, arXiv: 2207.12804.
-- Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun (2024), "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," *ACM Gordon Bell Prize for Climate Modelling finalist, International Journal of High Performance Computing Applications*, to appear, arXiv: 2408.04440.
-- **Yan Song**, Zubair Khalid, and Marc G. Genton (2024), "[Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666)," *Journal of the American Statistical Association*, published online.
+- Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun (2024), "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," *ACM Gordon Bell Prize for Climate Modelling finalist*, to appear, arXiv: 2408.04440.
+- **Yan Song**, Zubair Khalid, and Marc G. Genton (2024), "[Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666)," *Journal of the American Statistical Association, Applications and Case Studies*, published online.
 - Maoyu Zhang, **Yan Song**, and Wenlin Dai (2024), "[Fast robust location and scatter estimation: a depth-based method](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2216246)," *Technometrics*, 66, 14-27.
 - Yan Song and Wenlin Dai (2024), "[Deterministic subsampling for logistic regression with massive data](https://doi.org/10.1007/s00180-022-01319-z)," *Computational Statistics*, 39, 707-732.
 - Xiaoyu Liu, **Yan Song**, and Kun Zhang (2024), "[An exact bootstrap-based bandwidth selection rule for kernel quantile estimators](https://doi.org/10.1080/03610918.2022.2110595)," *Communications in Statistics - Simulation and Computation*, 53, 3699--3720.
-- Yiping Hong, Yan Song, Sameh Abdulah, Ying Sun, Hatem Ltaief, David E.Keyes, and Marc G. Genton (2023),"[The third competition on spatial statistics for large datasets](https://doi.org/10.1007/s13253-023-00584-9)," *Journal of Agricultural, Biological and Environmental Statistics*, 28, 618-635.
+- Yiping Hong, Yan Song, Sameh Abdulah, Ying Sun, Hatem Ltaief, David E. Keyes, and Marc G. Genton (2023),"[The third competition on spatial statistics for large datasets](https://doi.org/10.1007/s13253-023-00584-9)," *Journal of Agricultural, Biological and Environmental Statistics*, 28, 618-635.
 - Wenlin Dai, **Yan Song(co-first)**, and Dianpeng Wang (2023), "[A subsampling method for regression problems based on minimum energy criterion](https://doi.org/10.1080/00401706.2022.2127915)," *Technometrics*, 65, 192-205.
 
 # Talks
@@ -50,8 +50,8 @@ For more details, please refer to my [CV](CV.pdf).
 - *2024.08*, Joint Statistical Meetings, Portland, Oregon, USA - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
 - *2023.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
 - *2022.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Large-scale low-rank Gaussian process prediction with support points*.
-- *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
-- *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
+- *2020.12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
+- *2020.11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
 # Teaching 
 - *2024* Half part of short course "Large-Scale Spatial Data Science" at JSM.
