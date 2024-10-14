@@ -24,6 +24,7 @@ My research interests include **spatio-temporal statistics**, **subsampling meth
 For more details, please refer to my [CV](CV.pdf).
 
 # News
+- *2024.10*: &nbsp; [Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5](https://arxiv.org/abs/2410.08945)
 - *2024.09*: &nbsp; [A high-resolution boost for global climate modeling](https://discovery.kaust.edu.sa/en/article/24826/k2070_a-high-resolution-boost-for-global-climate-modeling)
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
