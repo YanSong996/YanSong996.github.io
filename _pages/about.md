@@ -34,13 +34,13 @@ For more details, please refer to my [CV](CV.pdf).
 - *2014.09 - 2018.06*, B.S. in Statistics, Beijing Institute of Technology, Beijing, China. 
 
 # Honors and Awards
-- *2024.07* Gordon Bell Prize for Climate Modelling fanalist for exascale climate emulator at SC24.
+- *2024.11* ACM Gordon Bell Prize for Climate Modelling.
 - *2020.12* The second prize of Outstanding Papers, National Forum for Doctoral Students in Statistics.
 - *2020.11* Outstanding Poster, RUC Youth Forum on Statistics and Data Science.
 
 # Publications 
 - **Yan Song**, Wenlin Dai, and Marc G. Genton (2024), "[Large-scale low-rank Gaussian process prediction with support points](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2403188)," *Journal of the American Statistical Association, Theory and Methods*, published online.
-- Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun (2024), "[Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators](https://arxiv.org/abs/2408.04440)," *ACM Gordon Bell Prize for Climate Modelling finalist*, to appear, arXiv: 2408.04440.
+- Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun (2024), "[Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators](https://arxiv.org/abs/2408.04440)," *ACM Gordon Bell Prize for Climate Modelling*, to appear, arXiv: 2408.04440.
 - **Yan Song**, Zubair Khalid, and Marc G. Genton (2024), "[Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666)," *Journal of the American Statistical Association, Applications and Case Studies*, published online.
 - Maoyu Zhang, **Yan Song**, and Wenlin Dai (2024), "[Fast robust location and scatter estimation: a depth-based method](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2216246)," *Technometrics*, 66, 14-27.
 - Yan Song and Wenlin Dai (2024), "[Deterministic subsampling for logistic regression with massive data](https://doi.org/10.1007/s00180-022-01319-z)," *Computational Statistics*, 39, 707-732.
