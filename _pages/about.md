@@ -54,6 +54,7 @@ For more details, please refer to my [CV](CV.pdf).
 - **Yan Song**, Zubair Khalid, and Marc G. Genton (2025+), "[Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5](https://arxiv.org/abs/2410.08945)," acceptable after major revision at *Journal of the American Statistical Association, Applications and Case Studies*.
 
 # Talks
+- *2025.04*, ADIA Lab Climate Science Best Paper Finalists Seminar Series - *Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5*.
 - *2025.02*, University of British Columbia (UBC) Statistics Webinar - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations*.
 - *2025.02*, University of Georgia (UGA) Statistics Seminar, Athens, Georgia, United States - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations*.
 - *2025.02*, New Jersey Institute of Technology (NJIT) Statistics Seminar, Newark, New Jersey, United States - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations*.
