@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Song"
-description              : "Postdoctoral Fellow in Statistics"
+description              : "Assistant Professor in Statistics"
 repository               : "YanSong996/YanSong996.github.io"
 google_scholar_stats_use_cdn : FALSE
 
@@ -23,12 +23,12 @@ google_scholar_stats_use_cdn : FALSE
 author:
   name             : "Yan Song"
   avatar           : "images/1718244465035.jpeg"
-  bio              : "King Abdullah University of Science and Technology"
-  location         : "Jeddah, KSA"
+  bio              : "The University of British Columbia"
+  location         : "Vancouver, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Em4gMRoAAAAJ"
-  email            : "yan.song@kaust.edu.sa"
+  email            : "yan.song@stat.ubc.ca"
   researchgate     :  "https://www.researchgate.net/profile/Yan-Song-58"
   uri              :
   bitbucket        :
