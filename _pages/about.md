@@ -73,7 +73,7 @@ For more details, please refer to my [CV](CV.pdf).
 - *2020.11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
 # Teaching 
-- *2026* Special topics course "STATV 547P: Spatial Statistics" at UBC.
+- *2026Spring* Special topics course "STATV 547P: Spatial Statistics" at UBC.
 - *2024* Half part of short course "Large-Scale Spatial Data Science" at JSM.
 - *2024* A part of short course for the Applied Mathematics and Computational Science and Statistics (AMCS-STAT) school.
 - *2024.08* One lesson of course STAT 330: Multivariate Statistics at KAUST.
@@ -84,6 +84,16 @@ For more details, please refer to my [CV](CV.pdf).
 - *2020Spring* Teaching assistant of course Stochastic Process at RUC.
 
 # Service
-**Reviewer** 
+**Journal Refereeing** 
 
 Annals of Applied Statistics (*2), Journal of Computational and Graphical Statistics, IEEE Transactions on Signal Processing
+
+**Professional Memberships**
+
+American Statistical Association (ASA), Section on Statistics and the Environment (ENVR)
+
+International Statistical Institute (ISI), The International Environmetrics Society (TIES)
+
+**Other Professional Service**
+
+Co-Founder and Co-Organizer, Spatio-Temporal Statistics and Data Science (STSDS) Online Seminars, 2025 -- present
