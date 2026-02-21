@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Fellow in Statistics at King Abdullah University of Science and Technology (KAUST), affiliated with the Spatio-Temporal Statistics and Data Science (STSDS) research group led by Prof. Genton. I received my Ph.D. degree in Statistics from Renmin University of China in 2023. During my doctoral studies, I undertook research visits to Hong Kong Baptist University and KAUST. I received my B.S. degree in Statistics from Beijing Institute of Technology, China, 2018. 
+I am an Assistant Professor in the Department of Statistics at the University of British Columbia (UBC). Prior to joining UBC, I was a Postdoctoral Fellow in Statistics at King Abdullah University of Science and Technology (KAUST), where I was affiliated with the Spatio-Temporal Statistics and Data Science (STSDS) research group led by Prof. Genton. I received my Ph.D. in Statistics from Renmin University of China in 2023. During my doctoral studies, I undertook research visits at Hong Kong Baptist University and KAUST. I earned my B.S. in Statistics from Beijing Institute of Technology, China, in 2018.
 
-My research interests include **spatio-temporal statistics**, **subsampling methods**, **nonparametric statistics**, and **Computational Statistics and HPC**. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data from Climate and Environmental Sciences and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. I have also developed subsampling techniques for various data types and statistical models, with an emphasis on nonparametric statistics.
+My research interests include **spatio-temporal statistics**, **subsampling methods**, **nonparametric statistics**, and **Computational Statistics and HPC**. My work primarily focuses on the analysis of large- and exa-scale datasets arising from climate and environmental sciences, integrating advanced statistical modeling and high-performance computing.
 
 For more details, please refer to my [CV](CV.pdf).
 
 # News
+- *2026.02*: &nbsp; [Excited to join the Department of Statistics at the University of British Columbia!](https://www.stat.ubc.ca/news/yan-song-joins-ubc-statistics)
+- *2026.02*: &nbsp; Earned the [Higher Education Teaching Certificate](Teaching Certificate.pdf) from Harvard's Bok Center for Teaching and Learning
 - *2025.03*: &nbsp; [Our online stochastic generator paper](https://arxiv.org/abs/2410.08945) has been selected one of the five finalists for the ADIA Lab Best Paper Award 2024 on Climate Science
 - *2024.11*: &nbsp; [2024 ACM Gordon Bell Prize for Climate Modelling!!!](https://www.kaust.edu.sa/en/news/kaust-wins-prestigious-gordon-bell-prize-for-innovation-in-climate-modelling)
 - *2024.10*: &nbsp; [Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5](https://arxiv.org/abs/2410.08945)
