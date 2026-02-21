@@ -56,6 +56,9 @@ For more details, please refer to my [CV](CV.pdf).
 - **Yan Song**, Zubair Khalid, and Marc G. Genton (2025+), "[Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5](https://arxiv.org/abs/2410.08945)," acceptable after major revision at *Journal of the American Statistical Association, Applications and Case Studies*.
 
 # Talks
+- *2026.08*, Joint Statistical Meetings, Boston, Massachusetts, USA - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations*, invited speaker.
+- *2026.01*, Spatio-Temporal Statistics and Data Science (STSDS) Online Seminars - *Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5*.
+- *2025.10*, KAUST ASA Student Chapter Research Presentation Session, Thuwal, Makkah, KSA - *Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5*.
 - *2025.07*, The 3rd Joint Conference on Statistics and Data Science in China, Hangzhou, Zhejiang, China - *Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5*.
 - *2025.04*, ADIA Lab Climate Science Best Paper Finalists Seminar Series - *Online stochastic generators using Slepian bases for regional bivariate wind speed ensembles from ERA5*.
 - *2025.02*, University of British Columbia (UBC) Statistics Webinar - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations*.
@@ -70,6 +73,7 @@ For more details, please refer to my [CV](CV.pdf).
 - *2020.11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
 # Teaching 
+- *2026* Special topics course "STATV 547P: Spatial Statistics" at UBC.
 - *2024* Half part of short course "Large-Scale Spatial Data Science" at JSM.
 - *2024* A part of short course for the Applied Mathematics and Computational Science and Statistics (AMCS-STAT) school.
 - *2024.08* One lesson of course STAT 330: Multivariate Statistics at KAUST.
@@ -82,4 +86,4 @@ For more details, please refer to my [CV](CV.pdf).
 # Service
 **Reviewer** 
 
-Annals of Applied Statistics, Journal of Computational and Graphical Statistics
+Annals of Applied Statistics (*2), Journal of Computational and Graphical Statistics, IEEE Transactions on Signal Processing
