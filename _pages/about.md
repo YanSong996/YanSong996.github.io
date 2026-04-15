@@ -21,9 +21,13 @@ I am an Assistant Professor in the Department of Statistics at the University of
 
 My research interests include **spatio-temporal statistics**, **subsampling methods**, **nonparametric statistics**, and **Computational Statistics and HPC**. My work primarily focuses on the analysis of large- and exa-scale datasets arising from climate and environmental sciences, integrating advanced statistical modeling and high-performance computing.
 
+I'm a co-founder and co-organizer of Spatio-Temporal Statistics and Data Science (STSDS) Online Seminars.
+
 For more details, please refer to my [CV](CV.pdf).
 
 # News
+- *2026.08*: &nbsp; I will attend the 2026 Joint Statistical Meetings (Boston) as an invited speaker, presenting work on stochastic generators for high-resolution climate simulations
+- *2026.04*: &nbsp; Awarded the NSERC Discovery Grant, along with the Discovery Launch Supplement for Early Career Researchers, to support research on climate data emulation, fusion, and prediction
 - *2026.02*: &nbsp; [Excited to join the Department of Statistics at the University of British Columbia!](https://www.stat.ubc.ca/news/yan-song-joins-ubc-statistics)
 - *2026.02*: &nbsp; Earned the [Higher Education Teaching Certificate](Teaching Certificate.pdf) from Harvard's Bok Center for Teaching and Learning
 - *2025.03*: &nbsp; [Our online stochastic generator paper](https://arxiv.org/abs/2410.08945) has been selected one of the five finalists for the ADIA Lab Best Paper Award 2024 on Climate Science
